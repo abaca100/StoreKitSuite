@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1640036FADBCDB1CA2B45A1520EF38B97D4D3CB2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1640036FADBCDB1CA2B45A1520EF38B97D4D3CB2" : 0,
+    "CB7ED75C53E687D17983B95A99889C18FC5E76CE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A368C59D-2130-4C84-B478-7B57253A5724",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1640036FADBCDB1CA2B45A1520EF38B97D4D3CB2" : "develop",
+    "CB7ED75C53E687D17983B95A99889C18FC5E76CE" : "StoreKitSuite"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StoreKitSuite",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StoreKitSuite.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.sd.apple.com:samplecode\/dts_sc1991_storekitsuite-2-0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1640036FADBCDB1CA2B45A1520EF38B97D4D3CB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/svn.apple.com\/svn\/RefLibSampleCode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CB7ED75C53E687D17983B95A99889C18FC5E76CE"
+    }
+  ]
+}
